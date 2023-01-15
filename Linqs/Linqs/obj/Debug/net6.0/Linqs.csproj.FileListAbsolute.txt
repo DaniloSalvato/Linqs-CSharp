@@ -1,0 +1,15 @@
+E:\Git Hub Pessoal\Linqs-CSharp\Linqs\Linqs\bin\Debug\net6.0\Linqs.exe
+E:\Git Hub Pessoal\Linqs-CSharp\Linqs\Linqs\bin\Debug\net6.0\Linqs.deps.json
+E:\Git Hub Pessoal\Linqs-CSharp\Linqs\Linqs\bin\Debug\net6.0\Linqs.runtimeconfig.json
+E:\Git Hub Pessoal\Linqs-CSharp\Linqs\Linqs\bin\Debug\net6.0\Linqs.dll
+E:\Git Hub Pessoal\Linqs-CSharp\Linqs\Linqs\bin\Debug\net6.0\Linqs.pdb
+E:\Git Hub Pessoal\Linqs-CSharp\Linqs\Linqs\obj\Debug\net6.0\Linqs.csproj.AssemblyReference.cache
+E:\Git Hub Pessoal\Linqs-CSharp\Linqs\Linqs\obj\Debug\net6.0\Linqs.GeneratedMSBuildEditorConfig.editorconfig
+E:\Git Hub Pessoal\Linqs-CSharp\Linqs\Linqs\obj\Debug\net6.0\Linqs.AssemblyInfoInputs.cache
+E:\Git Hub Pessoal\Linqs-CSharp\Linqs\Linqs\obj\Debug\net6.0\Linqs.AssemblyInfo.cs
+E:\Git Hub Pessoal\Linqs-CSharp\Linqs\Linqs\obj\Debug\net6.0\Linqs.csproj.CoreCompileInputs.cache
+E:\Git Hub Pessoal\Linqs-CSharp\Linqs\Linqs\obj\Debug\net6.0\Linqs.dll
+E:\Git Hub Pessoal\Linqs-CSharp\Linqs\Linqs\obj\Debug\net6.0\refint\Linqs.dll
+E:\Git Hub Pessoal\Linqs-CSharp\Linqs\Linqs\obj\Debug\net6.0\Linqs.pdb
+E:\Git Hub Pessoal\Linqs-CSharp\Linqs\Linqs\obj\Debug\net6.0\Linqs.genruntimeconfig.cache
+E:\Git Hub Pessoal\Linqs-CSharp\Linqs\Linqs\obj\Debug\net6.0\ref\Linqs.dll
